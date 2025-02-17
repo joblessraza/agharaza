@@ -158,6 +158,11 @@ header ul li a{
     border-radius: 5px;
     text-align: center;
 }
+.love-to-do section:hover{
+    transform: scale(110%);
+    transition:0.5s ease;
+    
+}
 .love-to-do section img{
     width: 100%;
 }
