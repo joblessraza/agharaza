@@ -102,7 +102,7 @@
     .contact-section .contact-section-items p{
         font-size: 0.9rem;
         color: #bbb;
-       text-align:center;
+        margin-left:10px;
     }
     .contact-section .contact-section-items button{
         display: none;
