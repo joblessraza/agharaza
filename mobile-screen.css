@@ -116,6 +116,7 @@
     .contact-section .contact-section-links p{
         font-size: 0.8rem;
         color: #bbb;
+       text-align:center;
     }
     .skills{
         padding:0px 50px;
