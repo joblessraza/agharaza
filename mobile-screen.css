@@ -97,6 +97,7 @@
         text-align: center;
         align-items: center;
         padding: 20px;
+       margin-left:-15px;
     }
     .contact-section .contact-section-items p{
         font-size: 0.9rem;
